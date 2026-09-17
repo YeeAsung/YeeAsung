@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=360&text=Hello+&fontSize=70&fontAlign=50&fontAlignY=50&desc=Choi+Yea+Sung&descSize=21&descAlign=50&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=360&text=Hello&fontSize=70&fontAlign=50&fontAlignY=50&desc=Choi+Yea+Sung&descSize=20&descAlign=50&descAlignY=60)
 
 <!--
 **YeeAsung/YeeAsung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
