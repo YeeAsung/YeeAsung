@@ -1,4 +1,3 @@
-![ai](https://github.com/user-attachments/assets/7e1c9717-8c78-4e33-bfa1-0a1f7d5fd0f0)
 
 <!--
 **YeeAsung/YeeAsung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
